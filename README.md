@@ -41,7 +41,7 @@ To complete the checklist, open the supporting materials provided in Step 1. The
 <img width="652" height="97" alt="image" src="https://github.com/user-attachments/assets/4bef8f4c-a497-48ad-ae3a-fd3e1416334f" />
 <img width="692" height="642" alt="image" src="https://github.com/user-attachments/assets/266b8b85-388a-4aca-b7e1-beb54b6c1513" />
 <img width="692" height="97" alt="image" src="https://github.com/user-attachments/assets/82e0ad3e-62cb-4926-a11d-19d7b24e193e" />
-<img width="692" height="287" alt="image" src="https://github.com/user-attachments/assets/2d7f9edb-e7c3-4bc2-ae46-58545feeccb4" />
+<img width="692" height="300" alt="image" src="https://github.com/user-attachments/assets/2d7f9edb-e7c3-4bc2-ae46-58545feeccb4" />
 
 ---
 ### ✅ Key Findings
