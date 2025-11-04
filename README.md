@@ -36,5 +36,24 @@ To complete the checklist, open the supporting materials provided in Step 1. The
 
 *Note: The [Controls and compliance checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/edit#heading=h.87tykp1u0l36) is what you need to complete to conduct this security audit. 
 
+------
+<img width="652" height="642" alt="image" src="https://github.com/user-attachments/assets/03ebe559-c524-447a-9c8b-5ea6379e933d" />
+<img width="652" height="97" alt="image" src="https://github.com/user-attachments/assets/4bef8f4c-a497-48ad-ae3a-fd3e1416334f" />
+<img width="692" height="642" alt="image" src="https://github.com/user-attachments/assets/266b8b85-388a-4aca-b7e1-beb54b6c1513" />
+<img width="692" height="97" alt="image" src="https://github.com/user-attachments/assets/82e0ad3e-62cb-4926-a11d-19d7b24e193e" />
+<img width="692" height="287" alt="image" src="https://github.com/user-attachments/assets/2d7f9edb-e7c3-4bc2-ae46-58545feeccb4" />
+
+---
+### ✅ Key Findings
+- Lack of **encryption** and **MFA** on systems handling sensitive data.
+- No formal **incident response** or **disaster recovery** plan.
+- Partial adherence to **PCI DSS**; noncompliance with **GDPR** due to missing privacy policies.
+- Need for enhanced **monitoring**, **vendor risk management**, and **training programs**.
 
 
+### 💡 Recommendations
+- Implement **encryption** for all customer and payment data.
+- Enforce **least privilege access** and **multi-factor authentication (MFA)**.
+- Create and test **incident response** and **disaster recovery plans**.
+- Establish **GDPR-compliant privacy processes** and **vendor assessments**.
+- Deploy **SIEM or IDS** tools for continuous monitoring.
