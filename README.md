@@ -10,4 +10,9 @@ The IT manager starts by implementing the National Institute of Standards and Te
  Task is to review the IT manager’s scope, goals, and risk assessment report. 
  Then, perform an internal audit by completing a controls and compliance checklist. 
 
-- [Vulnerability Management Policy Draft Creation](#vulnerability-management-policy-draft-creation)
+The following supporting materials will help you complete this activity. Keep materials open as you proceed to the next steps. 
+To use the supporting materials for this course item, click the links. 
+
+Links to supporting materials: 
+
+- [Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
