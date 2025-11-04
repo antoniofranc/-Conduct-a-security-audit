@@ -19,7 +19,7 @@ Links to supporting materials:
 - [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
 
   Link to template: [Controls and compliance checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36)
-----
+---
 ## Step 2: Conduct the audit: Controls and compliance checklist
 
 Conduct the security audit by completing the controls and compliance checklist. 
