@@ -19,3 +19,22 @@ Links to supporting materials:
 - [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
 
   Link to template: [Controls and compliance checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36)
+----
+## Step 2: Conduct the audit: Controls and compliance checklist
+
+Conduct the security audit by completing the controls and compliance checklist. 
+
+To complete the checklist, open the supporting materials provided in Step 1. Then:
+
+1.Review Botium Toys:  Scope, goals, and risk assessment report, with a focus on:
+- a. The assets currently managed by the IT department
+- b. The bullet points under “Additional comments” in the Risk assessment section
+  
+2.Consider information provided in the report using the Controls Categories document.
+
+3.Then, review the Controls and compliance checklist and select “yes” or “no” to answer the question in each section (note: the recommendations section is optional).
+
+*Note: The [Controls and compliance checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/edit#heading=h.87tykp1u0l36) is what you need to complete to conduct this security audit. 
+
+
+
